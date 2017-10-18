@@ -13,6 +13,10 @@
 
 The official Ruby-language client and integration layer for the [Sentry](https://github.com/getsentry/sentry) error reporting API.
 
+## Springer Nature Fork
+
+This fork was created to ensure availability of the [rails2](https://github.com/springernature/raven-ruby/tree/rails2) branch, in use by the legacy [NatureEvents](https://www.nature.com/natureevents/science) application.
+
 ## Requirements
 
 We test on Ruby 1.9, 2.2, 2.3, and 2.4 at the latest patchlevel/teeny version. We also support JRuby 1.7 and 9.0. Our Rails integration works with Rails 4.2+ (including Rails 5).
